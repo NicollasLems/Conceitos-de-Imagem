@@ -1,3 +1,5 @@
+FEITO POR: Nicollas Lemes e Isaque Dias 2°Jogos
+
 Imagem digital:
 
 A imagem digital é a representação de uma imagem bidimensional na forma de números binários usando recursos computacionais/eletrônicos, de modo a permitir seu armazenamento, transferência, impressão ou reprodução, e seu processamento por meios eletrônicos.
